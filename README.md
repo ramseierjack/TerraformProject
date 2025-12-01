@@ -19,6 +19,6 @@ Deployment:
 - Build backend image
 - Initialize and apply Terraform
 - Ensure ports are open:
-- - 8080 for frontend
-- - 3000 for Grafana
+ - 8080 for frontend
+ - 3000 for Grafana
 
